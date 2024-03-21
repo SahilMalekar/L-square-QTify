@@ -17,13 +17,3 @@
   gap: 10px;
   align-items: center;
 }
-
-.playSection {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  text-align: center;
-  justify-content: center; /* Center children horizontally */
-  align-items: center;
-  flex-grow: 1;
-}
